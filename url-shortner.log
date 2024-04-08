@@ -1,0 +1,420 @@
+DEBUG:configurations:Creating Flask App for URL Shortner
+DEBUG:configurations:Creating Flask Restful API
+DEBUG:configurations:Creating PyMongo Instance
+DEBUG:configurations:Starting the Flask App
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.172:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+DEBUG:configurations:Creating Flask App for URL Shortner
+DEBUG:configurations:Creating Flask Restful API
+DEBUG:configurations:Creating PyMongo Instance
+DEBUG:configurations:Starting the Flask App
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 474-232-908
+DEBUG:configurations:Creating Flask App for URL Shortner
+DEBUG:configurations:Creating Flask Restful API
+DEBUG:configurations:Creating PyMongo Instance
+DEBUG:configurations:Starting the Flask App
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.172:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+DEBUG:configurations:Creating Flask App for URL Shortner
+DEBUG:configurations:Creating Flask Restful API
+DEBUG:configurations:Creating PyMongo Instance
+DEBUG:configurations:Starting the Flask App
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 474-232-908
+DEBUG:configurations:Shorten API Called
+INFO:werkzeug:127.0.0.1 - - [11/Mar/2024 13:21:36] "[35m[1mPOST /shorten HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/r4rajat/Projects/url-shortner/apis/Shorten.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:configurations:Creating Flask App for URL Shortner
+DEBUG:configurations:Creating Flask Restful API
+DEBUG:configurations:Creating PyMongo Instance
+DEBUG:configurations:Starting the Flask App
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 474-232-908
+INFO:werkzeug: * Detected change in '/home/r4rajat/Projects/url-shortner/apis/Shorten.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:configurations:Creating Flask App for URL Shortner
+DEBUG:configurations:Creating Flask Restful API
+DEBUG:configurations:Creating PyMongo Instance
+DEBUG:configurations:Starting the Flask App
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 474-232-908
+DEBUG:configurations:Creating Flask App for URL Shortner
+DEBUG:configurations:Creating Flask Restful API
+DEBUG:configurations:Creating PyMongo Instance
+DEBUG:configurations:Starting the Flask App
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.172:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+DEBUG:configurations:Creating Flask App for URL Shortner
+DEBUG:configurations:Creating Flask Restful API
+DEBUG:configurations:Creating PyMongo Instance
+DEBUG:configurations:Starting the Flask App
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 474-232-908
+DEBUG:configurations:Shorten API Called
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:werkzeug:127.0.0.1 - - [11/Mar/2024 13:23:15] "[35m[1mPOST /shorten HTTP/1.1[0m" 500 -
+DEBUG:configurations:Creating Flask App for URL Shortner
+DEBUG:configurations:Creating Flask Restful API
+DEBUG:configurations:Creating PyMongo Instance
+DEBUG:configurations:Starting the Flask App
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.172:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+DEBUG:configurations:Creating Flask App for URL Shortner
+DEBUG:configurations:Creating Flask Restful API
+DEBUG:configurations:Creating PyMongo Instance
+DEBUG:configurations:Starting the Flask App
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 474-232-908
+INFO:werkzeug: * Detected change in '/home/r4rajat/Projects/url-shortner/apis/Shorten.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:configurations:Creating Flask App for URL Shortner
+DEBUG:configurations:Creating Flask Restful API
+DEBUG:configurations:Creating PyMongo Instance
+DEBUG:configurations:Starting the Flask App
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 474-232-908
+DEBUG:configurations:Shorten API Called
+INFO:werkzeug:127.0.0.1 - - [11/Mar/2024 13:25:31] "[35m[1mPOST /shorten HTTP/1.1[0m" 201 -
+INFO:werkzeug: * Detected change in '/home/r4rajat/Projects/url-shortner/apis/Shorten.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:configurations:Creating Flask App for URL Shortner
+DEBUG:configurations:Creating Flask Restful API
+DEBUG:configurations:Creating PyMongo Instance
+DEBUG:configurations:Starting the Flask App
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 474-232-908
+DEBUG:configurations:Shorten API Called
+INFO:werkzeug:127.0.0.1 - - [11/Mar/2024 13:26:21] "[35m[1mPOST /shorten HTTP/1.1[0m" 201 -
+INFO:werkzeug: * Detected change in '/home/r4rajat/Projects/url-shortner/apis/Shorten.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:configurations:Creating Flask App for URL Shortner
+DEBUG:configurations:Creating Flask Restful API
+DEBUG:configurations:Creating PyMongo Instance
+DEBUG:configurations:Starting the Flask App
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 474-232-908
+INFO:werkzeug: * Detected change in '/home/r4rajat/Projects/url-shortner/apis/Shorten.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:configurations:Creating Flask App for URL Shortner
+DEBUG:configurations:Creating Flask Restful API
+DEBUG:configurations:Creating PyMongo Instance
+DEBUG:configurations:Starting the Flask App
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 474-232-908
+DEBUG:configurations:Shorten API Called
+INFO:werkzeug:127.0.0.1 - - [11/Mar/2024 13:29:30] "[35m[1mPOST /shorten HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/r4rajat/Projects/url-shortner/apis/Shorten.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:configurations:Creating Flask App for URL Shortner
+DEBUG:configurations:Creating Flask Restful API
+DEBUG:configurations:Creating PyMongo Instance
+DEBUG:configurations:Starting the Flask App
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 474-232-908
+INFO:werkzeug: * Detected change in '/home/r4rajat/Projects/url-shortner/apis/Shorten.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:configurations:Creating Flask App for URL Shortner
+DEBUG:configurations:Creating Flask Restful API
+DEBUG:configurations:Creating PyMongo Instance
+DEBUG:configurations:Starting the Flask App
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 474-232-908
+INFO:werkzeug: * Detected change in '/home/r4rajat/Projects/url-shortner/apis/Shorten.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:configurations:Creating Flask App for URL Shortner
+DEBUG:configurations:Creating Flask Restful API
+DEBUG:configurations:Creating PyMongo Instance
+DEBUG:configurations:Creating Flask App for URL Shortner
+DEBUG:configurations:Creating Flask Restful API
+DEBUG:configurations:Creating PyMongo Instance
+DEBUG:configurations:Starting the Flask App
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.172:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+DEBUG:configurations:Creating Flask App for URL Shortner
+DEBUG:configurations:Creating Flask Restful API
+DEBUG:configurations:Creating PyMongo Instance
+DEBUG:configurations:Starting the Flask App
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 474-232-908
+DEBUG:configurations:Shorten API Called
+INFO:werkzeug:127.0.0.1 - - [11/Mar/2024 13:40:56] "[35m[1mPOST /shorten HTTP/1.1[0m" 201 -
+DEBUG:configurations:Creating Flask App for URL Shortner
+DEBUG:configurations:Creating Flask Restful API
+DEBUG:configurations:Creating PyMongo Instance
+DEBUG:configurations:Starting the Flask App
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.172:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+DEBUG:configurations:Creating Flask App for URL Shortner
+DEBUG:configurations:Creating Flask Restful API
+DEBUG:configurations:Creating PyMongo Instance
+DEBUG:configurations:Starting the Flask App
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 474-232-908
+DEBUG:configurations:Shorten API Called
+INFO:werkzeug:127.0.0.1 - - [11/Mar/2024 13:42:10] "[35m[1mPOST /shorten HTTP/1.1[0m" 201 -
+INFO:werkzeug: * Detected change in '/home/r4rajat/Projects/url-shortner/apis/Shorten.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:configurations:Creating Flask App for URL Shortner
+DEBUG:configurations:Creating Flask Restful API
+DEBUG:configurations:Creating PyMongo Instance
+DEBUG:configurations:Starting the Flask App
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 474-232-908
+INFO:werkzeug: * Detected change in '/home/r4rajat/Projects/url-shortner/apis/Shorten.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:configurations:Creating Flask App for URL Shortner
+DEBUG:configurations:Creating Flask Restful API
+DEBUG:configurations:Creating PyMongo Instance
+DEBUG:configurations:Starting the Flask App
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 474-232-908
+DEBUG:configurations:Creating Flask App for URL Shortner
+DEBUG:configurations:Creating Flask Restful API
+DEBUG:configurations:Creating PyMongo Instance
+DEBUG:configurations:Starting the Flask App
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.172:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+DEBUG:configurations:Creating Flask App for URL Shortner
+DEBUG:configurations:Creating Flask Restful API
+DEBUG:configurations:Creating PyMongo Instance
+DEBUG:configurations:Starting the Flask App
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 474-232-908
+DEBUG:configurations:Creating Flask App for URL Shortner
+DEBUG:configurations:Creating Flask Restful API
+DEBUG:configurations:Creating PyMongo Instance
+DEBUG:configurations:Starting the Flask App
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.172:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+DEBUG:configurations:Creating Flask App for URL Shortner
+DEBUG:configurations:Creating Flask Restful API
+DEBUG:configurations:Creating PyMongo Instance
+DEBUG:configurations:Starting the Flask App
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 474-232-908
+DEBUG:configurations:Shorten API Called
+INFO:werkzeug:127.0.0.1 - - [11/Mar/2024 13:49:21] "[35m[1mPOST /shorten HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/r4rajat/Projects/url-shortner/apis/Shorten.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:configurations:Creating Flask App for URL Shortner
+DEBUG:configurations:Creating Flask Restful API
+DEBUG:configurations:Creating PyMongo Instance
+DEBUG:configurations:Starting the Flask App
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 474-232-908
+INFO:werkzeug: * Detected change in '/home/r4rajat/Projects/url-shortner/apis/Shorten.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:configurations:Creating Flask App for URL Shortner
+DEBUG:configurations:Creating Flask Restful API
+DEBUG:configurations:Creating PyMongo Instance
+DEBUG:configurations:Starting the Flask App
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 474-232-908
+DEBUG:configurations:Creating Flask App for URL Shortner
+DEBUG:configurations:Creating Flask Restful API
+DEBUG:configurations:Creating PyMongo Instance
+DEBUG:configurations:Starting the Flask App
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.172:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+DEBUG:configurations:Creating Flask App for URL Shortner
+DEBUG:configurations:Creating Flask Restful API
+DEBUG:configurations:Creating PyMongo Instance
+DEBUG:configurations:Starting the Flask App
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 474-232-908
+DEBUG:configurations:Shorten API Called
+INFO:werkzeug:127.0.0.1 - - [11/Mar/2024 13:50:20] "[35m[1mPOST /shorten HTTP/1.1[0m" 201 -
+INFO:werkzeug: * Detected change in '/home/r4rajat/Projects/url-shortner/apis/Shorten.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:configurations:Creating Flask App for URL Shortner
+DEBUG:configurations:Creating Flask Restful API
+DEBUG:configurations:Creating PyMongo Instance
+DEBUG:configurations:Starting the Flask App
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 474-232-908
+DEBUG:configurations:Shorten API Called
+INFO:werkzeug:127.0.0.1 - - [11/Mar/2024 13:50:43] "[35m[1mPOST /shorten HTTP/1.1[0m" 201 -
+INFO:werkzeug: * Detected change in '/home/r4rajat/Projects/url-shortner/apis/Shorten.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:configurations:Creating Flask App for URL Shortner
+DEBUG:configurations:Creating Flask Restful API
+DEBUG:configurations:Creating PyMongo Instance
+DEBUG:configurations:Starting the Flask App
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 474-232-908
+INFO:werkzeug: * Detected change in '/home/r4rajat/Projects/url-shortner/apis/Shorten.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:configurations:Creating Flask App for URL Shortner
+DEBUG:configurations:Creating Flask Restful API
+DEBUG:configurations:Creating PyMongo Instance
+DEBUG:configurations:Starting the Flask App
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 474-232-908
+INFO:werkzeug: * Detected change in '/home/r4rajat/Projects/url-shortner/apis/Shorten.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:configurations:Creating Flask App for URL Shortner
+DEBUG:configurations:Creating Flask Restful API
+DEBUG:configurations:Creating PyMongo Instance
+DEBUG:configurations:Starting the Flask App
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 474-232-908
+DEBUG:configurations:Creating Flask App for URL Shortner
+DEBUG:configurations:Creating Flask Restful API
+DEBUG:configurations:Creating PyMongo Instance
+DEBUG:configurations:Starting the Flask App
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.172:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+DEBUG:configurations:Creating Flask App for URL Shortner
+DEBUG:configurations:Creating Flask Restful API
+DEBUG:configurations:Creating PyMongo Instance
+DEBUG:configurations:Starting the Flask App
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 304-783-354
+DEBUG:configurations:Shorten API Called
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 11:57:33] "[35m[1mPOST /shorten HTTP/1.1[0m" 201 -
+DEBUG:configurations:Shorten API Called
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 11:57:47] "[35m[1mPOST /shorten HTTP/1.1[0m" 201 -
+DEBUG:configurations:Shorten API Called
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 11:58:20] "[35m[1mPOST /shorten HTTP/1.1[0m" 201 -
+DEBUG:configurations:Shorten API Called
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 11:58:49] "[35m[1mPOST /shorten HTTP/1.1[0m" 500 -
+DEBUG:configurations:Shorten API Called
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 11:59:04] "[35m[1mPOST /shorten HTTP/1.1[0m" 201 -
+DEBUG:configurations:Shorten API Called
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 11:59:18] "[35m[1mPOST /shorten HTTP/1.1[0m" 201 -
+INFO:werkzeug: * Detected change in '/home/r4rajat/Projects/url-shortner/apis/Redirect.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:configurations:Creating Flask App for URL Shortner
+DEBUG:configurations:Creating Flask Restful API
+DEBUG:configurations:Creating PyMongo Instance
+DEBUG:configurations:Starting the Flask App
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 304-783-354
+DEBUG:configurations:Creating Flask App for URL Shortner
+DEBUG:configurations:Creating Flask Restful API
+DEBUG:configurations:Creating PyMongo Instance
+DEBUG:configurations:Starting the Flask App
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.172:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+DEBUG:configurations:Creating Flask App for URL Shortner
+DEBUG:configurations:Creating Flask Restful API
+DEBUG:configurations:Creating PyMongo Instance
+DEBUG:configurations:Starting the Flask App
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 304-783-354
+DEBUG:configurations:Creating Flask App for URL Shortner
+DEBUG:configurations:Creating Flask Restful API
+DEBUG:configurations:Creating PyMongo Instance
+DEBUG:configurations:Starting the Flask App
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.172:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+DEBUG:configurations:Creating Flask App for URL Shortner
+DEBUG:configurations:Creating Flask Restful API
+DEBUG:configurations:Creating PyMongo Instance
+DEBUG:configurations:Starting the Flask App
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 304-783-354
+DEBUG:configurations:Creating Flask App for URL Shortner
+DEBUG:configurations:Creating Flask Restful API
+DEBUG:configurations:Creating PyMongo Instance
+DEBUG:configurations:Starting the Flask App
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.172:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+DEBUG:configurations:Creating Flask App for URL Shortner
+DEBUG:configurations:Creating Flask Restful API
+DEBUG:configurations:Creating PyMongo Instance
+DEBUG:configurations:Starting the Flask App
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 304-783-354
+DEBUG:configurations:Redirect API Called
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 12:11:10] "[32mGET /myportfolio HTTP/1.1[0m" 302 -
+DEBUG:configurations:Creating Flask App for URL Shortner
+DEBUG:configurations:Creating Flask Restful API
+DEBUG:configurations:Creating PyMongo Instance
+DEBUG:configurations:Starting the Flask App
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.172:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+DEBUG:configurations:Creating Flask App for URL Shortner
+DEBUG:configurations:Creating Flask Restful API
+DEBUG:configurations:Creating PyMongo Instance
+DEBUG:configurations:Starting the Flask App
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.172:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+DEBUG:configurations:Creating Flask App for URL Shortner
+DEBUG:configurations:Creating Flask Restful API
+DEBUG:configurations:Creating PyMongo Instance
+DEBUG:configurations:Starting the Flask App
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 304-783-354
+DEBUG:configurations:Redirect API Called
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 12:11:45] "[32mGET /myportfolio HTTP/1.1[0m" 302 -
+DEBUG:configurations:Shorten API Called
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 12:12:17] "[35m[1mPOST /shorten HTTP/1.1[0m" 201 -
+DEBUG:configurations:Redirect API Called
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 12:12:46] "[32mGET /0a4M7iNC HTTP/1.1[0m" 302 -
+DEBUG:configurations:Redirect API Called
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 12:13:28] "[33mGET /0a4M7iND HTTP/1.1[0m" 404 -
+DEBUG:configurations:Redirect API Called
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2024 12:13:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
