@@ -1,6 +1,6 @@
 from configurations import app, api, LOGGER
-from apis.Shorten import Shorten
-from apis.Redirect import Redirect
+from Shorten import Shorten
+from Redirect import Redirect
 
 api.add_resource(Shorten, "/shorten")
 api.add_resource(Redirect, "/<string:short_url>")
